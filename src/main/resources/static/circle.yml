@@ -6,7 +6,7 @@ deployment:
   staging:
     branch: master
     heroku: 
-      appname: scrumboardarsw
+      appname: spicyproject1
 
 test:
   post:
